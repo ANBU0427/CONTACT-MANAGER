@@ -1,0 +1,5 @@
+{
+  "name": "ConnectHub - Smart Contact Manager",
+  "description": "A professional contact management system with JWT authentication, search functionality, and full CRUD operations.",
+  "requestFramePermissions": []
+}
